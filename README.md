@@ -6,7 +6,7 @@ This python package is prepared by Ertugrul Semiz.
 
 Install
 
-`pip install git+ssh://git@github.com:ertugrulsmz/preprocess_smz.git
+pip install git+ssh://git@github.com/ertugrulsmz/preprocess_smz.git
 
 Uninstall
 
