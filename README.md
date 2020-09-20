@@ -6,8 +6,8 @@ This python package is prepared by Ertugrul Semiz.
 
 Install
 
-`pip install git+ssh://git@github.com/kgptalkie/preprocess_kgptalkie.git`
+`pip install git+ssh://git@github.com:ertugrulsmz/preprocess_smz.git
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocess_smz`
